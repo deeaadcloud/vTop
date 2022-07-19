@@ -489,8 +489,10 @@ svg.fill_path{
         margin-bottom: 255px;
     }
     svg.fill_path {
+        max-width: 311px;
         width: 100%;
-        transform: translate(0px, 365px);
+        height: 45vh;
+        transform: translate(60px, 365px);
     }
 
     .card_footer {
